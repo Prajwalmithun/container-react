@@ -20,6 +20,6 @@ deploy:
   bucket_path: "react-container"
   
   on:
-    branch: master
+    branch: main
 
 
