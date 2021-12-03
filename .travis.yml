@@ -10,9 +10,9 @@ script:
 
 deploy:
   provider: elasticbeanstalk
-  access_key_id: AKIAUABX444ULEO4L5UC
+  access_key_id: $ACCESS_KEY_ID
   secret_access_key:
-    secure: "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"
+    secure: "$SECRET_ACCESS_KEY"
   region: "us-east-2"
   app: "react-container"
   env: "Reactcontainer-env"
