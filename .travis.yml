@@ -18,7 +18,6 @@ deploy:
   env: "Reactcontainer-env"
   bucket_name: "elasticbeanstalk-us-east-2-274995144488"
   bucket_path: "react-container"
-  
   on:
     branch: main
 
