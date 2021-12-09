@@ -1,8 +1,10 @@
 This is manily to understand Docker,Travis CI,Heroku/GCP App Engine/AWS Beanstalk
 
 Heroku: https://container-react.herokuapp.com/
-AWS Beanstalk :
-App Engine:
+
+AWS Beanstalk : in progress
+
+App Engine: in progress
 
 # Getting Started with Create React App
 
